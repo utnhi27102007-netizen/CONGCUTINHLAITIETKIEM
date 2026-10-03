@@ -16,7 +16,7 @@ st.set_page_config(
 # TIÊU ĐỀ
 # ============================================================
 
-st.title("💰 ỨNG DỤNG TÍNH LÃI GỬI TIẾT KIỆM")
+st.title("CÔNG CỤ TÍNH LÃI TIẾT KIỆM_TRẦN THỊ NHI")
 st.write(
     "Nhập thông tin khoản tiền gửi để tính tiền lãi định kỳ "
     "và tổng số tiền nhận được."
